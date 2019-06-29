@@ -33,3 +33,14 @@ If the robot reaches a corner of the room it will sense object present in all fo
 
 Another possible case is that there will be an object in front but there might not be any object neither in the left side nor on the right side, in this case we have to randomly turn in any of the direction. 
 ![left or right](pics/move-left-or-right.png)
+
+**Working:**
+
+We followed [this URL](https://pic-microcontroller.com/ultrasonic-obstacle-avoiding-robot/) and used  CCS C compiler as a programmer.
+
+**CODE: **
+
+- [Programming PIC](Programming PIC)
+- [Final code](final_code.c)
+
+
