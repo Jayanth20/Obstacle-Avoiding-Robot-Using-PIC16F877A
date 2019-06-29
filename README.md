@@ -1,4 +1,4 @@
-# Obstacle-Avoiding-Robot-Using-PIC16F877A.
+# OAR.
 Obstacle Avoiding Robot is a mini project written in embedded C for ECE1005. 
 This Project runs on PIC 16F877A.
 
