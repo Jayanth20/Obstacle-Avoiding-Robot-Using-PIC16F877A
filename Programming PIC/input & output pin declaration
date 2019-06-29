@@ -1,0 +1,10 @@
+  TRISD = 0x00; //PORTD declared as output for interfacing LCD
+     TRISB1 = 0; //Trigger pin of US sensor is sent as output pin
+     TRISB2 = 1; //Echo pin of US sensor is set as input pin      
+     TRISB3 = 0; //RB3 is output pin for LED
+   
+     TRISD2 = 1; TRISD3 = 1; //Both the IR sensor pins are declared as input
+     TRISC4 = 0; TRISC5 = 0; //Motor 1 pins declared as output
+     TRISC6 = 0; TRISC7 = 0; //Motor 2 pins declared as output
+    
+     T1CON=0x20;
