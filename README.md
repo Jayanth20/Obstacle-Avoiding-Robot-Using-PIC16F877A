@@ -40,7 +40,34 @@ We followed [this URL](https://pic-microcontroller.com/ultrasonic-obstacle-avoid
 
 **CODE: **
 
-- [Programming PIC](Programming PIC)
+- Programming PIC
 - [Final code](final_code.c)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References:
+
+www.engineersgarage.com
+www.circuitdigest.com
+www.faadooengineers.com
+www.elprocus.com
 
