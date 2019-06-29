@@ -2,4 +2,5 @@ if (distance>5)
         {
          RC4=0; RC5=1; //Motor 1 forward
          RC6=1; RC7=0; //Motor 2 forward
+        
         }
