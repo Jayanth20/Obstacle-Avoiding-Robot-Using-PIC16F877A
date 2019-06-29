@@ -38,25 +38,10 @@ Another possible case is that there will be an object in front but there might n
 
 We followed [this URL](https://pic-microcontroller.com/ultrasonic-obstacle-avoiding-robot/) and used  CCS C compiler as a programmer.
 
-**CODE: **
+**Code:**
 
 - Programming PIC
 - [Final code](final_code.c)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
