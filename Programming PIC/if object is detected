@@ -1,0 +1,17 @@
+if (RD2==0 && RD3==1 && distance<=5) //Left sensor is blocked
+         {
+         back_off();
+         RC4=1; RC5=1; //Motor 1 stop
+         RC6=1; RC7=0; //Motor 2 forward 
+         __delay_ms(500);
+         }
+
+
+        calculate_distance();  
+         if (RD2==1 && RD3==0 && distance<=5) //Right sensor is blocked
+         {
+         back_off();
+         RC4=0; RC5=1; //Motor 1 forward
+         RC6=1; RC7=1; //Motor 2 stop
+         __delay_ms(500);
+         }
